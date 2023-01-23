@@ -1,4 +1,4 @@
-# Stock Bet App on Solana Network
+# Prediction Dapp on Solana Network
 
 The Stock Bet App is a decentralized application built on the Solana blockchain network. It allows users to place bets on the future performance of stocks using Solana's native token, SOL.
 
